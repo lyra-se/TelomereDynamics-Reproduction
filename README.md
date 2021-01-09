@@ -1,4 +1,4 @@
-# TelomereDynamics-Reproduction
+# TL_Reproduction_SoayEwes
 Telomere dynamics and reproductive investment in Soay sheep females
 
 The dataset used in the manuscript - The association between female reproductive investment and leukocyte telomere length in wild Soay sheep,
